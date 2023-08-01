@@ -33,7 +33,7 @@ The data used in this analysis is publicly available and falls under the public 
 * There are 1601 observations and 6 variables or fields. The variables are described as follows:
 
 | Variable | Description |
-|------------------------|
+|----------|-------------|
 | Company | Company name |
 
 Industry
