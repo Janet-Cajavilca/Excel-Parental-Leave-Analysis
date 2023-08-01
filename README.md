@@ -35,21 +35,18 @@ The data used in this analysis is publicly available and falls under the public 
 | Variable | Description |
 |----------|-------------|
 | Company | Company name |
+|Industry | Company Industry & sub-industry (Industry: Sub-industry)|
+| Paid Maternity Leave | Paid weeks off from work for mothers after the birth of their child |
+| Unpaid Maternity Leave| Unpaid weeks off from work for mothers after the birth of their child |
+| Paid Paternity Leave | Paid weeks off from work for fathers after the birth of their child |
+| Unpaid Paternity Leave | Unpaid weeks off from work for fathers after the birth of their child |
 
-Industry
-Company Industry & sub-industry (Industry: Sub-industry)
-Paid Maternity Leave
-Paid weeks off from work for mothers after the birth of their child
-Unpaid Maternity Leave
-Unpaid weeks off from work for mothers after the birth of their child
-Paid Paternity Leave
-Paid weeks off from work for fathers after the birth of their child
-Unpaid Paternity Leave
-Unpaid weeks off from work for fathers after the birth of their child
 
 
 
 | Column 1 | Column 2 |
 |----------|----------|
 | Data 1   | Data 2   |
+| Data 3   | Data 4   |
+| Data 3   | Data 4   |
 | Data 3   | Data 4   |
