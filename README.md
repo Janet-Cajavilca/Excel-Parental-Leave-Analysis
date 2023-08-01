@@ -41,7 +41,9 @@ The data used in this analysis is publicly available and falls under the public 
 | Paid Paternity Leave | Paid weeks off from work for fathers after the birth of their child |
 | Unpaid Paternity Leave | Unpaid weeks off from work for fathers after the birth of their child |
 
+## Data Cleaning and Preparation
 
+* I found one duplicated observation. This was for the company 'Collins Aerospace.' I deleted both rows concerning this company because the information about Paid Maternity Leave and Unpaid Maternity Leave differed between the rows. This means I analyzed 1599 observations instead of 1601.
 
 
 | Column 1 | Column 2 |
