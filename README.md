@@ -44,6 +44,8 @@ The data used in this analysis is publicly available and falls under the public 
 ## Data Cleaning and Preparation
 
 * I found one duplicated observation. This was for the company 'Collins Aerospace.' I deleted both rows concerning this company because the information about Paid Maternity Leave and Unpaid Maternity Leave differed between the rows. This means I analyzed 1599 observations instead of 1601.
+* I split the field 'Industry' into two: 'Industry' and 'Sub-industry,' to filter the information according to the industry without making distinctions between sub-industries. Some sub-industries were not provided, so I filled the empty cells with 'not specified'.
+* I created a field called 'Industry Group.' This new column groups industries that belong to the same category. I obtained the information from the following page https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard. The reason for doing this is that some industries contain only a small number of companies.
 
 
 | Column 1 | Column 2 |
