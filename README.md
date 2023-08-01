@@ -32,6 +32,22 @@ The data used in this analysis is publicly available and falls under the public 
 * The data source contains two files in CSV format: one contains a sheet of information about the directory and the other data for analysis. I merged both in a file for practical use.
 * There are 1601 observations and 6 variables or fields. The variables are described as follows:
 
+| Variable | Description |
+|------------------------|
+| Company | Company name |
+
+Industry
+Company Industry & sub-industry (Industry: Sub-industry)
+Paid Maternity Leave
+Paid weeks off from work for mothers after the birth of their child
+Unpaid Maternity Leave
+Unpaid weeks off from work for mothers after the birth of their child
+Paid Paternity Leave
+Paid weeks off from work for fathers after the birth of their child
+Unpaid Paternity Leave
+Unpaid weeks off from work for fathers after the birth of their child
+
+
 
 | Column 1 | Column 2 |
 |----------|----------|
