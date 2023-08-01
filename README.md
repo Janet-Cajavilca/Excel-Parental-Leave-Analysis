@@ -12,15 +12,25 @@ According to ILO standards, there is a requirement for a minimum maternity leave
 The benchmark used in this analysis sets a minimum standard of 14 weeks for maternity leave. Companies will be assessed against this benchmark to determine if they meet the requirement or fall below the recommended duration
 
 ## Purpose of the portfolio
-The purpose of this portfolio is to demonstrate my proficiency in data analytics using Excel. I will utilize Pivot Tables and Pivot Charts to analyze the data and find answers to the following questions:How many companies meet the ILO standards regarding maternity leave?
-Which industry group offers the highest number of companies that fulfill the ILO standards for maternity leave?
 
+The purpose of this portfolio is to demonstrate my proficiency in data analytics using Excel. I will utilize **Pivot Tables** and **Pivot Charts** to analyze the data and find answers to the following questions:
+* How many companies meet the ILO standards regarding maternity leave?
+* Which industry group offers the highest number of companies that fulfill the ILO standards for maternity leave?
 * Which industry group has the highest number of companies that do not meet the ILO standards for maternity leave?
 * What is the average duration of paid and unpaid maternity leave among the companies?
 * What is the average duration of paid and unpaid paternity leave among the companies?
 * Which companies offer the most paid parental leave weeks?
 * Are there noticeable differences between industries?
 * Which industries offer the highest number of paid and unpaid parental leave weeks?
+
+Through this portfolio, I aim to showcase my ability to manipulate and visualize data effectively, providing valuable insights and conclusions based on the information gathered.
+
+## Data Source and Description
+
+The data used in this analysis is publicly available and falls under the public domain. I downloaded the data from the Maven Analytics website. Maven Analytics utilized this publicly available data to create exercises and scenarios for educational purposes https://www.mavenanalytics.io/data-playground?accessType=open
+The data source contains two files in CSV format: one contains a sheet of information about the directory and the other data for analysis. I merged both in a file for practical use.
+There are 1601 observations and 6 variables or fields. The variables are described as follows:
+
 
 | Column 1 | Column 2 |
 |----------|----------|
