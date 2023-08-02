@@ -33,7 +33,7 @@ The data used in this analysis is publicly available and falls under the public 
 * There are 1601 observations and 6 variables or fields. The variables are described as follows:
 
 | Variable | Description | Missing Values <br>( in this case denoted by N/A) |
-|----------|-------------|----------------|
+|----------|-------------|:----------------:|
 | Company | Company name | 0 |
 |Industry | Company Industry & sub-industry (Industry: Sub-industry)| 3 |
 | Paid Maternity Leave | Paid weeks off from work for mothers after the birth of their child | 0 |
