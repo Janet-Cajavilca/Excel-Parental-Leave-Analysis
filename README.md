@@ -57,7 +57,7 @@ The data used in this analysis is publicly available and falls under the public 
 |Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave <br> No, if the company offers less than 14 weeks of maternity Leave  |
 
 # Data Visualization and Dashboard:
-In the Excel file, I have included a visualization located in the sheet named 'Chart.' For more details and insights, I encourage viewers of my portfolio to explore this specific sheet. The visualization provides valuable information that complements the analysis presented here.
+In the Excel file, I have included a visualization located in the sheet named 'Chart.' For more details and insights, I encourage viewers of my portfolio to explore this specific sheet. 
 
 # Key Findings and Recommendations
 
