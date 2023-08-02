@@ -59,16 +59,39 @@ The data used in this analysis is publicly available and falls under the public 
 # Data Visualization
 In the Excel file, I have included a visualization located in the sheet named 'Chart.' For more details and insights, I encourage viewers of my portfolio to explore this specific sheet. 
 
-# Key Findings and Recommendations
+# Key Findings
 
 * Approximately 49% (789) of the companies meet the ILO recommendations for parental leave, indicating that there is still room for improvement in this area.
 * Among the industry groups with more than 50 companies, Financial Services and Banks stand out as the industry with the highest percentage of companies meeting the ILO Standards, reaching an impressive 70%. However, the Industry for Health Care and Equipment & Services faces a challenge, as it has the highest percentage of companies (63%) that do not comply with the ILO Standards.
 * When considering paternity leave, the average duration of paid paternity leave is 7 weeks, while the average duration of unpaid paternity leave is 8 weeks. On the other hand, for maternity leave, the average duration of paid maternity leave is 11 weeks, and the average duration of unpaid maternity leave is 7 weeks. 
 * A concerning finding is that when focusing solely on paid maternity leave, a significant 77% of the companies do not meet the ILO standards. This highlights the need for stronger, more comprehensive policies to support working mothers during this critical time.
 
+
+# Recommendations
+
 Addressing the disparities identified in parental leave policies is crucial for creating an inclusive and supportive work environment. Aspiring to meet and exceed the ILO Standards will not only benefit employees and their families but also contribute to the long-term success and growth of businesses. By embracing progressive parental leave policies, companies can attract and retain talent, foster positive company culture, and make a meaningful impact on their workforce's well-being and productivity.
 
+## Recommendations derived from the insights of this project: 
+### For the Government
 
+* Encourage policymakers to consider increasing the duration of paid maternity leave to align with the ILO recommendations
+* Work with companies in the Health Care & Equipment and Services industry to identify challenges and devise strategies to improve compliance with the ILO Standards
+* Highlight the success of Financial Services and Banks in meeting the ILO Standards and share their best practices with other industries. Encourage companies to adopt similar policies and showcase the benefits of supporting parental leave.
+* Collaborate with organizations or initiatives that promote gender equality in the workplace. Advocate for parental leave policies that support equal opportunities and responsibilities for both parents.
+* Partner with non-governmental organizations (NGOs) and advocacy groups focused on family and work-life balance to amplify your recommendations and push for policy changes.
+* Continue to conduct research and collect data on parental leave policies and their impact on employees and companies. Use the data to support evidence-based decision-making and policy changes.
+* Benchmark parental leave policies against industry peers to identify areas for improvement and learn from companies with successful family support initiatives
+
+### For Companies
+* Conduct employee surveys to gather feedback on parental leave policies and work-family balance. Use the insights from these surveys to identify areas of improvement and address any concerns.
+* Implement flexible return-to-work options, such as phased return or remote work arrangements, to facilitate a smooth transition for employees returning from parental leave.
+* Implement flexible return-to-work options, such as phased return or remote work arrangements, to facilitate a smooth transition for employees returning from parental leave.
+* Track and measure the impact of parental leave policies on employee satisfaction, retention, and productivity. Use these metrics to evaluate the effectiveness of the policies and make data-driven improvements.
+
+## Recommendation for further studies:
+* Conduct a cross-country analysis to compare parental leave policies and practices in different countries. This study can shed light on the impact of cultural, economic, and legislative factors on parental leave provisions.
+ 
+* Investigate the long-term effects of parental leave on employee retention, career progression, and overall job satisfaction. Understanding the extended impacts of parental leave policies can provide valuable insights for employers and policymakers.
 
 # Grateful for Your Review
 
