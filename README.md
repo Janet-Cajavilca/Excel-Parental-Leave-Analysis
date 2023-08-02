@@ -62,7 +62,7 @@ In the Excel file, I have included a visualization located in the sheet named 'C
 ## Key Findings and Recommendations
 
 * Approximately 49% (789) of the companies meet the ILO recommendations for parental leave, indicating that there is still room for improvement in this area.
-* Among the industry groups with more than 50 companies, Financial Services and Banks stand out as the industry with the highest percentage of companies meeting the ILO Standards, reaching an impressive 70%. However, the Industry for Health Care and Equipment & Services faces a challenge, as it has the highest percentage of companies (63%) that do not comply with the ILO Standards.
+* Among the industry groups with more than 50 companies, Financial Services and Banks stand out as the industry with the highest percentage of companies meeting the ILO Standards, reaching an impressive 70%. However, the Industry for Health Care Equipment & Services faces a challenge, as it has the highest percentage of companies (63%) that do not comply with the ILO Standards.
 * When considering paternity leave, the average duration of paid paternity leave is 7 weeks, while the average duration of unpaid paternity leave is 8 weeks. On the other hand, for maternity leave, the average duration of paid maternity leave is 11 weeks, and the average duration of unpaid maternity leave is 7 weeks. 
 * A concerning finding is that when focusing solely on paid maternity leave, a significant 77% of the companies do not meet the ILO standards. This highlights the need for stronger, more comprehensive policies to support working mothers during this critical time.
 
