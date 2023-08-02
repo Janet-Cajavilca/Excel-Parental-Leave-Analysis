@@ -50,17 +50,9 @@ The data used in this analysis is publicly available and falls under the public 
 * I created the field 'Is ILO Standard fulfilled?'. This variable has two values: 'yes' and 'no.' 'Yes' means that the number of offered Maternity Leave is 14 or more, and 'No' indicates that the number of Maternity Leave is less than 14.
 * In conclusion, I have included the following three fields:
 
-
-
-
-
-
-yes if the company offers 14 or more weeks of maternity Leave.
-
-
-
 | Variable | Description|
 |----------|----------|
 |Industry Group   |Group of Industries with similar characteristics  |
 |Total of Maternity Leave  | Sum of Paid Maternity Leave and Unpaid Maternity Leave |
-|Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave. no, if the company offers less than 14 weeks of maternity Leave  |
+|Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave. 
+No, if the company offers less than 14 weeks of maternity Leave  |
