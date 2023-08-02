@@ -56,10 +56,10 @@ The data used in this analysis is publicly available and falls under the public 
 |Total of Maternity Leave  | Sum of Paid Maternity Leave and Unpaid Maternity Leave |
 |Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave <br> No, if the company offers less than 14 weeks of maternity Leave  |
 
-# Data Visualization
+## Data Visualization
 In the Excel file, I have included a visualization located in the sheet named 'Chart.' For more details and insights, I encourage viewers of my portfolio to explore this specific sheet. 
 
-# Key Findings and Recommendations
+## Key Findings and Recommendations
 
 * Approximately 49% (789) of the companies meet the ILO recommendations for parental leave, indicating that there is still room for improvement in this area.
 * Among the industry groups with more than 50 companies, Financial Services and Banks stand out as the industry with the highest percentage of companies meeting the ILO Standards, reaching an impressive 70%. However, the Industry for Health Care and Equipment & Services faces a challenge, as it has the highest percentage of companies (63%) that do not comply with the ILO Standards.
@@ -86,7 +86,7 @@ Addressing the disparities identified in parental leave policies is crucial for 
 * Conduct a cross-country analysis to compare parental leave policies and practices in different countries. This study can shed light on the impact of cultural, economic, and legislative factors on parental leave provisions.
 * Investigate the long-term effects of parental leave on employee retention, career progression, and overall job satisfaction. Understanding the extended impacts of parental leave policies can provide valuable insights for employers and policymakers.
 
-# Grateful for Your Review
+## Grateful for Your Review
 
 Dear reviewers and visitors,
 
