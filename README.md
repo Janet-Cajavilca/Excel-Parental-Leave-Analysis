@@ -3,6 +3,9 @@
 ## Introduction
 
 Insights regarding parental leave pique the interest of three distinct groups: the Government, job seekers, and employees and employers.
+* Parental leave insights are crucial for the government to design effective social welfare strategies and promote gender equality.
+* Job seekers benefit from this information to make informed career choices, seeking companies that prioritize work-life balance and offer family-friendly policies.
+* For companies, understanding parental leave practices helps attract and retain top talent, fostering a positive work culture and enhancing employee satisfaction and productivity.
 
 According to ILO standards, there is a requirement for a minimum maternity leave period of 14 weeks, with a recommendation to extend it to at least 18 weeks. This extension is suggested to give the mother sufficient time for rest and recovery after childbirth.https://www.ilo.org/wcmsp5/groups/public/---dgreports/---gender/documents/publication/wcms_838655.pdf
 
