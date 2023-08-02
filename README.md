@@ -67,3 +67,15 @@ In the Excel file, I have included a visualization located in the sheet named 'C
 * A concerning finding is that when focusing solely on paid maternity leave, a significant 77% of the companies do not meet the ILO standards. This highlights the need for stronger, more comprehensive policies to support working mothers during this critical time.
 
 
+# Grateful for Your Review
+
+Dear reviewers and visitors,
+
+I want to express my heartfelt gratitude to all those who have taken the time to review my portfolio. As this is my first endeavor to showcase my data analytics skills, your interest and feedback mean a lot to me.
+I created this portfolio with the aim of learning and improving my abilities as a data analyst. It has been a rewarding experience for me to analyze and present insights on parental leave policies using Excel. However, I acknowledge that there might be areas for improvement, and I welcome any constructive feedback you may have.
+
+If you come across any mistakes or have questions about my analysis, please don't hesitate to reach out to me. Your valuable input will not only help me refine this portfolio but also contribute to my growth as a data analyst.
+Once again, thank you for your support and for joining my learning journey. I look forward to continuing to enhance my skills and contributing meaningfully to the field of data analysis.
+
+Warm regards,
+Janet
