@@ -78,14 +78,14 @@ Addressing the disparities identified in parental leave policies is crucial for 
 * Continue to conduct research and collect data on parental leave policies and their impact on employees and companies. Use the data to support evidence-based decision-making and policy changes.
 * Benchmark parental leave policies against industry peers to identify areas for improvement and learn from companies with successful family support initiatives
 
-** Recommendations for the Companies:**
+**Recommendations for the Companies:**
 
 * Conduct employee surveys to gather feedback on parental leave policies and work-family balance. Use the insights from these surveys to identify areas of improvement and address any concerns.
 * Implement flexible return-to-work options, such as phased return or remote work arrangements, to facilitate a smooth transition for employees returning from parental leave.
 * Implement flexible return-to-work options, such as phased return or remote work arrangements, to facilitate a smooth transition for employees returning from parental leave.
 * Track and measure the impact of parental leave policies on employee satisfaction, retention, and productivity. Use these metrics to evaluate the effectiveness of the policies and make data-driven improvements.
 
-## Recommendation for further studies:
+**Recommendation for further studies:**
 * Conduct a cross-country analysis to compare parental leave policies and practices in different countries. This study can shed light on the impact of cultural, economic, and legislative factors on parental leave provisions.
 * Investigate the long-term effects of parental leave on employee retention, career progression, and overall job satisfaction. Understanding the extended impacts of parental leave policies can provide valuable insights for employers and policymakers.
 
