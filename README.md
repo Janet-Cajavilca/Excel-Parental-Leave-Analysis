@@ -66,16 +66,20 @@ In the Excel file, I have included a visualization located in the sheet named 'C
 * When considering paternity leave, the average duration of paid paternity leave is 7 weeks, while the average duration of unpaid paternity leave is 8 weeks. On the other hand, for maternity leave, the average duration of paid maternity leave is 11 weeks, and the average duration of unpaid maternity leave is 7 weeks. 
 * A concerning finding is that when focusing solely on paid maternity leave, a significant 77% of the companies do not meet the ILO standards. This highlights the need for stronger, more comprehensive policies to support working mothers during this critical time.
 
+Addressing the disparities identified in parental leave policies is crucial for creating an inclusive and supportive work environment. Aspiring to meet and exceed the ILO Standards will not only benefit employees and their families but also contribute to the long-term success and growth of businesses. By embracing progressive parental leave policies, companies can attract and retain talent, foster positive company culture, and make a meaningful impact on their workforce's well-being and productivity.
+
+
 
 # Grateful for Your Review
 
 Dear reviewers and visitors,
 
-I want to express my heartfelt gratitude to all those who have taken the time to review my portfolio. As this is my first endeavor to showcase my data analytics skills, your interest and feedback mean a lot to me.
-I created this portfolio with the aim of learning and improving my abilities as a data analyst. It has been a rewarding experience for me to analyze and present insights on parental leave policies using Excel. However, I acknowledge that there might be areas for improvement, and I welcome any constructive feedback you may have.
+I want to express my heartfelt gratitude to all those who have taken the time to review my project. As this is my first endeavor to showcase my data analytics skills, your interest and feedback mean a lot to me.
+I created this project with the aim of learning and improving my abilities as a data analyst. It has been a rewarding experience for me to analyze and present insights on parental leave policies using Excel. However, I acknowledge that there might be areas for improvement, and I welcome any constructive feedback you may have.
 
 If you come across any mistakes or have questions about my analysis, please don't hesitate to reach out to me. Your valuable input will not only help me refine this portfolio but also contribute to my growth as a data analyst.
-Once again, thank you for your support and for joining my learning journey. I look forward to continuing to enhance my skills and contributing meaningfully to the field of data analysis.
+Once again, thank you for your support and joining my learning journey. I look forward to continuing to enhance my skills and contributing meaningfully to the field of data analysis.
 
 Warm regards,
+
 Janet
