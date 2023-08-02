@@ -11,9 +11,9 @@ According to ILO standards, there is a requirement for a minimum maternity leave
 
 The benchmark used in this analysis sets a minimum standard of 14 weeks for maternity leave. Companies will be assessed against this benchmark to determine if they meet the requirement or fall below the recommended duration
 
-## Purpose of the portfolio
+## Purpose of the Analysis
 
-The purpose of this portfolio is to demonstrate my proficiency in data analytics using Excel. I will utilize **Pivot Tables** and **Pivot Charts** to analyze the data and find answers to the following questions:
+The purpose of this analysis is to demonstrate my proficiency in data analytics using Excel. I will utilize **Pivot Tables** and **Pivot Charts** to analyze the data and find answers to the following questions:
 * How many companies meet the ILO standards regarding maternity leave?
 * Which industry group offers the highest number of companies that fulfill the ILO standards for maternity leave?
 * Which industry group has the highest number of companies that do not meet the ILO standards for maternity leave?
