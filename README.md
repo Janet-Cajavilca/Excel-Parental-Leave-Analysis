@@ -68,7 +68,7 @@ In the Excel file, I have included a visualization located in the sheet named 'C
 
 Addressing the disparities identified in parental leave policies is crucial for creating an inclusive and supportive work environment. Aspiring to meet and exceed the ILO Standards will not only benefit employees and their families but also contribute to the long-term success and growth of businesses. By embracing progressive parental leave policies, companies can attract and retain talent, foster positive company culture, and make a meaningful impact on their workforce's well-being and productivity.
 
-## Recommendations for the Government
+**Recommendations for the Government:**
 
 * Encourage policymakers to consider increasing the duration of paid maternity leave to align with the ILO recommendations
 * Work with companies in the Health Care & Equipment and Services industry to identify challenges and devise strategies to improve compliance with the ILO Standards
@@ -78,7 +78,8 @@ Addressing the disparities identified in parental leave policies is crucial for 
 * Continue to conduct research and collect data on parental leave policies and their impact on employees and companies. Use the data to support evidence-based decision-making and policy changes.
 * Benchmark parental leave policies against industry peers to identify areas for improvement and learn from companies with successful family support initiatives
 
-## Recommendations for the Government
+** Recommendations for the Companies:**
+
 * Conduct employee surveys to gather feedback on parental leave policies and work-family balance. Use the insights from these surveys to identify areas of improvement and address any concerns.
 * Implement flexible return-to-work options, such as phased return or remote work arrangements, to facilitate a smooth transition for employees returning from parental leave.
 * Implement flexible return-to-work options, such as phased return or remote work arrangements, to facilitate a smooth transition for employees returning from parental leave.
