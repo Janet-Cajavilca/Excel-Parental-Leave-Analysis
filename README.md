@@ -54,5 +54,4 @@ The data used in this analysis is publicly available and falls under the public 
 |----------|----------|
 |Industry Group   |Group of Industries with similar characteristics  |
 |Total of Maternity Leave  | Sum of Paid Maternity Leave and Unpaid Maternity Leave |
-|Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave. 
-No, if the company offers less than 14 weeks of maternity Leave  |
+|Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave. n/No, if the company offers less than 14 weeks of maternity Leave  |
