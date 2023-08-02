@@ -32,14 +32,14 @@ The data used in this analysis is publicly available and falls under the public 
 * The data source contains two files in CSV format: one contains a sheet of information about the directory and the other data for analysis. I merged both in a file for practical use.
 * There are 1601 observations and 6 variables or fields. The variables are described as follows:
 
-| Variable | Description |
-|----------|-------------|
-| Company | Company name |
-|Industry | Company Industry & sub-industry (Industry: Sub-industry)|
-| Paid Maternity Leave | Paid weeks off from work for mothers after the birth of their child |
-| Unpaid Maternity Leave| Unpaid weeks off from work for mothers after the birth of their child |
-| Paid Paternity Leave | Paid weeks off from work for fathers after the birth of their child |
-| Unpaid Paternity Leave | Unpaid weeks off from work for fathers after the birth of their child |
+| Variable | Description | Missing Values <br>( in this case denoted by N/A) |
+|----------|-------------|----------------|
+| Company | Company name | 0 |
+|Industry | Company Industry & sub-industry (Industry: Sub-industry)| 3 |
+| Paid Maternity Leave | Paid weeks off from work for mothers after the birth of their child | 0 |
+| Unpaid Maternity Leave| Unpaid weeks off from work for mothers after the birth of their child | 107 |
+| Paid Paternity Leave | Paid weeks off from work for fathers after the birth of their child | 1312 |
+| Unpaid Paternity Leave | Unpaid weeks off from work for fathers after the birth of their child | 1537 |
 
 ## Data Cleaning and Preparation
 
