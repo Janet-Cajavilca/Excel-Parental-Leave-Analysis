@@ -47,11 +47,20 @@ The data used in this analysis is publicly available and falls under the public 
 * I split the field 'Industry' into two: 'Industry' and 'Sub-industry,' to filter the information according to the industry without making distinctions between sub-industries. Some sub-industries were not provided, so I filled the empty cells with 'not specified'.
 * I created a field called 'Industry Group.' This new column groups industries that belong to the same category. I obtained the information from the following page https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard. The reason for doing this is that some industries contain only a small number of companies.
 * I also created the column 'Total Maternity Leave.' This column represents the sum of Paid Maternity Leave and Unpaid Maternity Leave. To accomplish this, I used an Excel formula that replaces the 'N/A' values in the 'Unpaid Maternity Leave' field with zero to avoid error values.
+* I created the field 'Is ILO Standard fulfilled?'. This variable has two values: 'yes' and 'no.' 'Yes' means that the number of offered Maternity Leave is 14 or more, and 'No' indicates that the number of Maternity Leave is less than 14.
+* In conclusion, I have included the following three fields:
 
 
-| Column 1 | Column 2 |
+
+
+
+
+yes if the company offers 14 or more weeks of maternity Leave.
+
+
+
+| Variable | Description|
 |----------|----------|
-| Data 1   | Data 2   |
-| Data 3   | Data 4   |
-| Data 3   | Data 4   |
-| Data 3   | Data 4   |
+|Industry Group   |Group of Industries with similar characteristics  |
+|Total of Maternity Leave  | Sum of Paid Maternity Leave and Unpaid Maternity Leave |
+|Meet ILO Standard?   | Yes if the company offers 14 or more weeks of maternity Leave. no, if the company offers less than 14 weeks of maternity Leave  |
