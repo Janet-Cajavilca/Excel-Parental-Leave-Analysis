@@ -81,5 +81,10 @@ Addressing the disparities identified in parental leave policies is crucial for 
 * Conduct a cross-country analysis to compare parental leave policies and practices in different countries. This study can shed light on the impact of cultural, economic, and legislative factors on parental leave provisions.
 * Investigate the long-term effects of parental leave on employee retention, career progression, and overall job satisfaction. Understanding the extended impacts of parental leave policies can provide valuable insights for employers and policymakers.
 
+## Ressources
+
+* I used the report of Luka Mihailo Jović as inspiration [See his Report](https://mavenanalytics.io/project/4525)
+* The Dataset was downloaded from Maven Analytics [Visit Website](https://www.mavenanalytics.io/data-playground?accessType=open)
+
   
 
