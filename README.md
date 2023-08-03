@@ -83,8 +83,8 @@ Addressing the disparities identified in parental leave policies is crucial for 
 
 ## Ressources
 
-* I used the Report of Luka Mihailo Jović as inspiration [See his Report](https://mavenanalytics.io/project/4525)
-* Dataset was downloaded from Maven Analytics [Visit Website](https://www.mavenanalytics.io/data-playground?accessType=open)
+* I used the report of Luka Mihailo Jović as inspiration [See his Report](https://mavenanalytics.io/project/4525)
+* The Dataset was downloaded from Maven Analytics [Visit Website](https://www.mavenanalytics.io/data-playground?accessType=open)
   
 ## Grateful for Your Review
 
