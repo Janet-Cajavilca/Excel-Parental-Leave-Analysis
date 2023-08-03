@@ -67,10 +67,8 @@ Addressing the disparities identified in parental leave policies is crucial for 
 
 **Recommendations for Governments:**
 
-* Encourage policymakers to consider increasing the duration of paid maternity leave to align with the ILO recommendations
 * Work with companies in the Health Care & Equipment and Services industry to identify challenges and devise strategies to improve compliance with the ILO Standards
 * Highlight the success of Financial Services and Banks in meeting the ILO Standards and share their best practices with other industries. Encourage companies to adopt similar policies and showcase the benefits of supporting parental leave.
-* Collaborate with organizations or initiatives that promote gender equality in the workplace. Advocate for parental leave policies that support equal opportunities and responsibilities for both parents.
 * Continue to conduct research and collect data on parental leave policies and their impact on employees and companies. Use the data to support evidence-based decision-making and policy changes.
 
 **Recommendations for the Companies:**
@@ -82,10 +80,7 @@ Addressing the disparities identified in parental leave policies is crucial for 
 **Recommendation for further studies:**
 * Conduct a cross-country analysis to compare parental leave policies and practices in different countries. This study can shed light on the impact of cultural, economic, and legislative factors on parental leave provisions.
 * Investigate the long-term effects of parental leave on employee retention, career progression, and overall job satisfaction. Understanding the extended impacts of parental leave policies can provide valuable insights for employers and policymakers.
-* 
-## Ressources
-not finished!
-
+  
 ## Grateful for Your Review
 
 Dear reviewers and visitors,
