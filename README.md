@@ -88,11 +88,4 @@ Addressing the disparities identified in parental leave policies is crucial for 
   
 ## Grateful for Your Review
 
-Dear reviewers and visitors,
-
-I want to express my heartfelt gratitude to all those who have taken the time to review my project. As this is my first endeavor to showcase my data analytics skills, your interest and feedback mean a lot to me.
-I created this project with the aim of learning and improving my abilities as a data analyst. It has been a rewarding experience for me to analyze and present insights on parental leave policies using Excel. However, I acknowledge that there might be areas for improvement, and I welcome any constructive feedback you may have.
-
-Warm regards,
-
-Janet
+I want to express my heartfelt gratitude to all those who have taken the time to review my project. I created this project with the aim of learning and improving my abilities as a data analyst. It has been a rewarding experience for me to analyze and present insights on parental leave policies using Excel. However, I acknowledge that there might be areas for improvement, and I welcome any constructive feedback you may have.
