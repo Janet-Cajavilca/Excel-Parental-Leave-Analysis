@@ -25,7 +25,7 @@ Through this portfolio, I aim to showcase my ability to manipulate and visualize
 ## Data Source and Description
 
 The data used in this analysis is publicly available and falls under the public domain.
-* I downloaded the data from the Maven Analytics website. Maven Analytics utilized this publicly available data to create exercises and scenarios for educational purposes https://www.mavenanalytics.io/data-playground?accessType=open
+* I downloaded the data from the [Maven Analytics website] (https://mavenanalytics.io/). Maven Analytics utilized this publicly available data to create exercises and scenarios for educational purposes 
 * The data source contains two files in CSV format: one contains a sheet of information about the directory and the other data for analysis. I merged both in a file for practical use.
 * There are 1601 observations and 6 variables or fields. The variables are described as follows:
 
@@ -80,6 +80,11 @@ Addressing the disparities identified in parental leave policies is crucial for 
 **Recommendation for further studies:**
 * Conduct a cross-country analysis to compare parental leave policies and practices in different countries. This study can shed light on the impact of cultural, economic, and legislative factors on parental leave provisions.
 * Investigate the long-term effects of parental leave on employee retention, career progression, and overall job satisfaction. Understanding the extended impacts of parental leave policies can provide valuable insights for employers and policymakers.
+
+## Ressources
+
+* I used the Report of Luka Mihailo Jović as inspiration https://mavenanalytics.io/project/4525
+* Dataset was downloaded from Maven Analytics https://www.mavenanalytics.io/data-playground?accessType=open
   
 ## Grateful for Your Review
 
