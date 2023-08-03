@@ -4,7 +4,7 @@
 
 Insights regarding parental leave pique the interest of three distinct groups: the Government, job seekers, and employees and employers.
 
-According to ILO standards, there is a requirement for a minimum maternity leave period of 14 weeks, with a recommendation to extend it to at least 18 weeks. This extension is suggested to give the mother sufficient time for rest and recovery after childbirth.https://www.ilo.org/wcmsp5/groups/public/---dgreports/---gender/documents/publication/wcms_838655.pdf
+According to ILO standards, there is a requirement for a minimum maternity leave period of 14 weeks, with a recommendation to extend it to at least 18 weeks. This extension is suggested to give the mother sufficient time for rest and recovery after childbirth. [See Publication](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---gender/documents/publication/wcms_838655.pdf)
 
 The benchmark used in this analysis sets a minimum standard of 14 weeks for maternity leave. Companies will be assessed against this benchmark to determine if they meet the requirement or fall below the recommended duration
 
@@ -83,8 +83,8 @@ Addressing the disparities identified in parental leave policies is crucial for 
 
 ## Ressources
 
-* I used the Report of Luka Mihailo Jović as inspiration https://mavenanalytics.io/project/4525
-* Dataset was downloaded from Maven Analytics https://www.mavenanalytics.io/data-playground?accessType=open
+* I used the Report of Luka Mihailo Jović as inspiration [See Report] (https://mavenanalytics.io/project/4525)
+* Dataset was downloaded from Maven Analytics [Visit Website](https://www.mavenanalytics.io/data-playground?accessType=open)
   
 ## Grateful for Your Review
 
