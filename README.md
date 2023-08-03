@@ -25,7 +25,7 @@ Through this portfolio, I aim to showcase my ability to manipulate and visualize
 ## Data Source and Description
 
 The data used in this analysis is publicly available and falls under the public domain.
-* I downloaded the data from the [Maven Analytics website] (https://mavenanalytics.io/). Maven Analytics utilized this publicly available data to create exercises and scenarios for educational purposes 
+* I downloaded the data from the Maven Analytics website. Maven Analytics utilized this publicly available data to create exercises and scenarios for educational purposes. [Visit Site](https://mavenanalytics.io/)
 * The data source contains two files in CSV format: one contains a sheet of information about the directory and the other data for analysis. I merged both in a file for practical use.
 * There are 1601 observations and 6 variables or fields. The variables are described as follows:
 
